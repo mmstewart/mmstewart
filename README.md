@@ -4,11 +4,9 @@
 <p align="center">
   ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
   👨🏿‍🎓 I recently <b>graduated</b> from the University of Wisconsin-Madison in computer science!<br>
-  👨🏿‍💻 I now <b>work</b> as an Associate Solutions Engineer for <a href="https://www.equuscs.com/" target="_blank">Equus Computer Systems</a>!<br>
-  📧 <b>Reach</b> me at:
-</p>
-<p align="center">
-    <a href="mailto:mmsstewart20@gmail.com">
+  👨🏿‍💻 I now <b>work</b> as an Associate Solutions Engineer for <a href="https://www.equuscs.com/" target="_blank">Equus Computer Systems</a>!<br><br>
+  📧 <b>Reach</b> me at:<br>
+  <a href="mailto:mmsstewart20@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/marcusmstewart">
