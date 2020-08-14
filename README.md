@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hey, I'm Marcus</b>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="28px"><br>
+  <b>Hey, I'm Marcus</b>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"><br>
 </p>
 <p align="center">
   ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
