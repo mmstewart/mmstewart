@@ -8,7 +8,7 @@
   📧 <b>Reach</b> me at:<br>
   <a href="mailto:mmsstewart20@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/marcusmstewart">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
