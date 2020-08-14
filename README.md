@@ -5,7 +5,14 @@
   ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
   👨🏿‍🎓 I recently <b>graduated</b> from the University of Wisconsin-Madison in computer science!<br>
   👨🏿‍💻 I now <b>work</b> as an Associate Solutions Engineer for <a href="https://www.equuscs.com/" target="_blank">Equus Computer Systems</a>!<br><br>
-  📧 <b>Reach</b> me at:<br>
+  <img width='200' src='https://user-images.githubusercontent.com/36175538/90294502-35388a00-de4c-11ea-8abe-31596fa4e89b.gif'/>
+</p>
+
+<p align="center">
+  📧 <b>Reach</b> me at:
+</p>
+
+<p align="center">
   <a href="mailto:mmsstewart20@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
