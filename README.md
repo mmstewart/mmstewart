@@ -5,7 +5,7 @@
   ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
   👨🏿‍🎓 I recently <b>graduated</b> from the University of Wisconsin-Madison with a computer science degree!<br>
   👨🏿‍💻 I now <b>work</b> as an Associate Solutions Engineer for <a href="https://www.equuscs.com/" target="_blank">Equus Computer Systems</a>!<br>
-  📧 Reach me at:<br> <a href="mailto:mmsstewart20@gmail.com"><b>mss.stewart1@gmail.com</b></a>
+  📧 <b>Reach</b> me at:<br> <a href="mailto:mmsstewart20@gmail.com"><b>mss.stewart1@gmail.com</b></a>
 </p>
 
 <p align="center">
