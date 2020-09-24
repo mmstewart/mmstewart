@@ -20,11 +20,3 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <b>Languages I use:<b>
-<p>
-  
-<p align="center>
-  <b>Technologies that I worked with:</b>
-<p>
