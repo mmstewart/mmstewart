@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
-  👨🏿‍🎓 I <b>graduated</b> from the University of Wisconsin-Madison in computer science back in 2019!<br>
+  👨🏿‍🎓 I <b>graduated</b> from the University of Wisconsin-Madison with a degree in computer science back in 2019!<br>
   👨🏿‍💻 I now <b>work</b> as an Associate Solutions Engineer for <a href="https://www.equuscs.com/" target="_blank">Equus Computer Systems</a>!<br><br>
   <img src="https://github.com/mmstewart/mmstewart/blob/master/add'l/thumbs-up-community.gif" width="200">
 </p>
