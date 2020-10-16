@@ -13,7 +13,10 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/marcusmstewart">
+  <a href="https://marcusstewart.me">
+    <img src="https://img.shields.io/badge/MY WEBSITE-%23000000.svg?&style=for-the-badge&logo=matrix&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/marcusmstewart">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:mss.stewart1@gmail.com">
