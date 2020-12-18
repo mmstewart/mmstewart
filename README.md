@@ -4,7 +4,7 @@
 <p align="center">
   ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
   👨🏿‍🎓 I <b>graduated</b> from the University of Wisconsin-Madison with a degree in computer science back in 2019!<br>
-  👨🏿‍💻 I formerly <b>worked</b> as an Associate Solutions Engineer!<br><br>
+  👨🏿‍💻 I <b>work</b> as a Software Engineer at Nextek!<br><br>
   <img src="https://github.com/mmstewart/mmstewart/blob/master/add'l/thumbs-up-community.gif" width="200">
 </p>
 
