@@ -1,24 +1,12 @@
-<p align="center">
-  <b>Hey, I'm Marcus</b>!&nbsp;&nbsp;<img src="https://github.com/mmstewart/mmstewart/blob/master/add'l/Hi.gif" width="20px"><br>
-</p>
-<p align="center">
-  ❄️ I'm <b>located</b> in the frozen tundra, known as Minnesota.<br>
-  👨🏿‍🎓 I <b>graduated</b> from the University of Wisconsin-Madison with a degree in computer science back in 2019!<br>
-  <img src="https://github.com/mmstewart/mmstewart/blob/master/add'l/thumbs-up-community.gif" width="200">
-</p>
+# Hi, I'm Marcus 👋🏿
 
-<p align="center">
-  📧 <b>Reach</b> me at:
-</p>
+I'm a Software Engineer based in Minnesota. I have 5 years of experience building full-stack web applications, primarily with Laravel and Vue.
 
-<p align="center">
-  <a href="https://marcusstewart.me">
-    <img src="https://img.shields.io/badge/MY WEBSITE-%23666666.svg?&style=for-the-badge&logo=matrix&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/marcusmstewart">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mss.stewart1@gmail.com">
-    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+- Building [Laravel X-Ray](https://github.com/mmstewart/laravel-x-ray): A Laravel upgrade compatibility scanner.
+- Learning more about Python, TypeScript, and AI.
+
+## Find me on the internet 🔗
+
+- [Website](https://marcusstewart.me)
+- [LinkedIn](https://linkedin.com/in/marcusmstewart)
+- [Email](mailto:mss.stewart1@gmail.com)
